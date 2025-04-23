@@ -21,5 +21,8 @@ This program can crack PDF file’s password.
 the rockyou file which is i renamed for passlist01.txt is about 125MB i couldn't upload so i changed for a link :
 
 > https://mega.nz/file/Lr4kTApb#sRb5HPH7o1XW5Du94ZEed8GduvkUfkMa7sUHYgP3Uz4
+ put this file into PDF-CRACKER folder  to be accessed
+
+using this program is easy , just upload the locked PDF file into PDF-CRACKER folder and then call it back it start cracking.
 
 + Much Love: XZT-01.

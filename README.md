@@ -25,7 +25,7 @@ the rockyou file which is i renamed for passlist01.txt is about 125MB i couldn't
 
 using this program is easy , just download the program :
 
-^git clone https://github.com/XZT-01/PDF-CRACKER.git
+>git clone https://github.com/XZT-01/PDF-CRACKER.git
 
 and then upload the locked PDF file into PDF-CRACKER folder and then call it back it start cracking.
 
